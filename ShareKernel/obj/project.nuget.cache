@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjHnUam8UjATe55CHcI42fJ6aBP99eCVadkfVCbeNEv+59QbXdq9IrL89M40tSUih+Y0QQH9af1SUCiG0KO7tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves_husky_lint\\ShareKernel\\ShareKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

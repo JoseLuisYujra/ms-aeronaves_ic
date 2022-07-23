@@ -1,1 +1,6 @@
-# ms-aeronaves_ic
+# Microservicio Aeronaves
+Casos de Uso de tipo Command:
+AeronaveAsignada
+AeronaveCreada
+AeronaveModificada
+AeronaveEliminada

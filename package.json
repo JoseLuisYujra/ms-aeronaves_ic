@@ -1,0 +1,28 @@
+{
+  "name": "ms-aeronaves_husky_lint",
+  "version": "1.0.0",
+  "description": "Casos de Uso de tipo Command:\r AeronaveAsignada\r AeronaveCreada\r AeronaveModificada\r AeronaveEliminada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLuisYujra/ms-aeronaves_husky_lint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseLuisYujra/ms-aeronaves_husky_lint/issues"
+  },
+  "homepage": "https://github.com/JoseLuisYujra/ms-aeronaves_husky_lint#readme",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "lint-staged": "^13.0.3"
+  },
+  "lint-staged": {
+    "*.cs": "dotnet-format --include"
+   }
+}
