@@ -10,9 +10,11 @@ using Aeronaves.Domain.ValueObjects;
 using System.Collections.ObjectModel;
 
 namespace Aeronaves.Domain.Model.Aeronaves
+
 {
 
     public class Aeronave : AggregateRoot<Guid>
+
     {
    
         public Guid IdAeronave { get; private set; }
