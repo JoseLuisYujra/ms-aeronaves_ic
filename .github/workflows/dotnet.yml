@@ -1,4 +1,4 @@
-name: .NET
+name: Compilacion y Tests
 
 on: 
   pull_request:
