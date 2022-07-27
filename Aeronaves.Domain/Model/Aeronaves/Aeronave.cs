@@ -71,23 +71,7 @@ namespace Aeronaves.Domain.Model.Aeronaves
 
         }
 
-        /*
-        public void ActualizarEstadoAeronave(NroAsientosValue _Nroasientos)
-        {
-            if (_Nroasientos < TotalNroAsientos)
-            {
-                EstadoDisponibilidad = "Disponible";
-            }
-            else
-            {
-                EstadoDisponibilidad = "Asignado";
-            }
-            if ((TotalNroAsientos - _Nroasientos) < 0)
-            {
-                throw new BussinessRuleValidationException("Nro de Asiento insuficiente");
-            }          
-        }
-        */
+
         public void ActualizarEstadoAeronave()
         {
                          EstadoDisponibilidad = "Asignado";           
