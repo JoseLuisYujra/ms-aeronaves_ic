@@ -46,12 +46,12 @@ jobs:
               StrictHostKeyChecking no
           END
       - name: Stop the server
-        run: ssh staging 'sudo systemctl stop aeronave.service'
+        run: ssh staging 'sudo systemctl stop aeronaves.service'
 
       - name: Do deploy
-        run: ssh staging 'cd /var/www/aeronave-app && bash deploy.sh'
+        run: ssh staging 'cd /var/www/aeronaves-app && bash deploy.sh'
         
       - name: Start the server
         if: ${{ always() }}
-        run: ssh staging 'sudo systemctl start aeronave.service'
+        run: ssh staging 'sudo systemctl start aeronaves.service'
         
