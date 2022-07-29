@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epcNl4Tiefn89JGSBUN8aaB1SP4JarC9gi83CKqII/hqvBP6RAWtQKe8WyqM2Pmie1/MpnaXFKtWIiDc7q24GA==",
+  "dgSpecHash": "hNNH21mTUFrWhvJvKZuqml9JQ1Ppnq+xOurGi39pVNKKrz/C7LspecLM6ceI40xC7yzFfEMC0eftFK5pIdb0yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves_husky_lint\\Aeronave.Infraestructure\\Aeronave.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\copia al 29.07.2022\\ms-aeronaves_ic\\Aeronave.Infraestructure\\Aeronave.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
