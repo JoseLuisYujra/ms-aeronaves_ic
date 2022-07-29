@@ -49,7 +49,8 @@ jobs:
 #        run: ssh staging 'sudo systemctl stop AeroNaves.webApi'
 
       - name: Do deploy
-        run: ssh staging 'cd /var/www/aeronaves-app && bash deploy.sh'
+#        run: ssh staging 'cd /var/www/aeronaves-app && bash deploy.sh'
+        run: ssh staging 'cd /var/www/aeronaves-app'
         
       - name: Start the server
         if: ${{ always() }}
