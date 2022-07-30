@@ -4,11 +4,7 @@ AeronaveAsignada
 AeronaveCreada
 AeronaveModificada
 AeronaveEliminada
-
-<<<<<<< Updated upstream
-Actualiza
-
-
-=======
 cambios por CI/CD
->>>>>>> Stashed changes
+
+Actualiza cambios por CI/CD
+
