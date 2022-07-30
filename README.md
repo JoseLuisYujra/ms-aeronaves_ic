@@ -5,6 +5,10 @@ AeronaveCreada
 AeronaveModificada
 AeronaveEliminada
 
+<<<<<<< Updated upstream
 Actualiza
 
 
+=======
+cambios por CI/CD
+>>>>>>> Stashed changes
