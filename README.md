@@ -4,5 +4,4 @@ AeronaveAsignada
 AeronaveCreada
 AeronaveModificada
 AeronaveEliminada
-cambios por CI/CD
 
