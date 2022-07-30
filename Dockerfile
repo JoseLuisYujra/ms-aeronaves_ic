@@ -1,6 +1,7 @@
 ARG NET_IMAGE=5.0
 FROM mcr.microsoft.com/dotnet/aspnet:${NET_IMAGE} AS base
 WORKDIR /app
+
 EXPOSE 80
 EXPOSE 443
 
