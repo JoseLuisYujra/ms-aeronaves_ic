@@ -45,8 +45,8 @@ jobs:
               IdentityFile ~/.ssh/staging.key
               StrictHostKeyChecking no
           END
-#      - name: Stop the server
-#        run: ssh staging 'sudo systemctl stop AeroNaves.webApi'
+      - name: Stop the server
+        run: ssh staging 'sudo systemctl stop AeroNaves.webApi'
 
       - name: Do deploy
 #        run: ssh staging 'cd /var/www/aeronaves-app && bash deploy.sh'
