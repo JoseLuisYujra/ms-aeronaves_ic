@@ -1,4 +1,4 @@
-name: Docker build
+name: Docker-Build
 
 on:
   pull_request:
@@ -9,7 +9,7 @@ jobs:
   build:
     name: Build with Docker
     runs-on: ubuntu-latest
-
+    
     steps:
       - uses: actions/checkout@v2
       - name: Setup .NET
