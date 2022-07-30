@@ -4,3 +4,7 @@ AeronaveAsignada
 AeronaveCreada
 AeronaveModificada
 AeronaveEliminada
+
+
+
+
