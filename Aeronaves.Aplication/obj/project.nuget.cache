@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jKlK1QNolu3ndzTep1FoOm/Ffm77mFO+Ou1Zhss1k6w116yiuc0LkCCNTq5zlVNnGiN4aZcX4Z8zwUWp+Qcx3w==",
+  "dgSpecHash": "PCm2jMwFm+9mFQnRj2XLNbofI9V3qacBQ+xwA4ran4+GIM8FDRLfJeP+lHUiP0nmXO9EWIWwD+/faK7veTjY1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves_husky_lint\\Aeronaves.Aplication\\Aeronaves.Aplication.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\copia al 29.07.2022\\ms-aeronaves_ic\\Aeronaves.Aplication\\Aeronaves.Aplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

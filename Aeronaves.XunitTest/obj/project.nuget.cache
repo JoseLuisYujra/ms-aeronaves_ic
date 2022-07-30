@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "St0h565oisBxz7GlMjsti6V1F2FyQCp2ByyXzu6Oo8CAcO4DQCkGKMg1necRp8dSPF52hCM/xxu/v44HIYg6qg==",
+  "dgSpecHash": "kyOZ1usFaJZ2RRg7qMJDCUXh2QSVtXwGbZtw3I7kP6cdFBzjR8vl9zsZGkKN9aFQJ9dAFkE/ucfgaVoeEWc/dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves_husky_lint\\Aeronaves.XunitTest\\Aeronaves.XunitTest.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\copia al 29.07.2022\\ms-aeronaves_ic\\Aeronaves.XunitTest\\Aeronaves.XunitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
