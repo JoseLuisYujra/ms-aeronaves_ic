@@ -5,3 +5,6 @@ AeronaveCreada
 AeronaveModificada
 AeronaveEliminada
 cambios por CI/CD
+
+Actualiza cambios por CI/CD
+
