@@ -15,6 +15,7 @@ COPY ["ShareKernel/ShareKernel.csproj", "ShareKernel/"]
 
 #COPY ["AeroNaves.webApi", "./AeroNaves.webApi/"]
 #COPY ["ShareKernel", "./ShareKernel/"]
+
 RUN dotnet restore "AeroNaves.webApi/AeroNaves.webApi.csproj"
 COPY . .
 WORKDIR "/src/AeroNaves.webApi"
