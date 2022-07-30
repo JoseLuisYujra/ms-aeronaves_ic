@@ -45,8 +45,9 @@ jobs:
               IdentityFile ~/.ssh/staging.key
               StrictHostKeyChecking no
           END
+          
       - name: Stop the server
-        run: ssh staging 'sudo systemctl stop AeroNaves.services'
+        run: ssh staging 'sudo systemctl stop AeroNaves.service'
 
       - name: Do deploy
 #        run: ssh staging 'cd /var/www/aeronaves-app && bash deploy.sh'
@@ -54,5 +55,5 @@ jobs:
         
       - name: Start the server
         if: ${{ always() }}
-        run: ssh staging 'sudo systemctl start AeroNaves.services'
+        run: ssh staging 'sudo systemctl start AeroNaves.service'
         
